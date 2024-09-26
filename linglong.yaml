@@ -3,7 +3,7 @@ version: "1"
 package:
   id: com.popcap.plantsvszombies.deepin
   name: com.popcap.plantsvszombies.deepin
-  version: 1.0.0.722
+  version: 1.0.0.1
   kind: app
   description: |
 
