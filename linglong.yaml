@@ -3,10 +3,10 @@ version: "1"
 package:
   id: com.popcap.plantsvszombies.deepin
   name: com.popcap.plantsvszombies.deepin
-  version: 1.0.0.1
+  version: 1.0.0.0
   kind: app
   description: |
-
+    com.popcap.plantsvszombies.deepin_1.0.0.722deepin1_amd64
 base: org.deepin.base.wine
 runtime: org.deepin.runtime.wine
 
