@@ -8,8 +8,8 @@ package:
   description: |
     com.popcap.plantsvszombies.deepin_1.0.0.722deepin1_amd64
     
-base: org.deepin.base.wine/23.2.0.5
-runtime: org.deepin.runtime.wine/23.2.1.4
+base: org.deepin.base.wine/23.2.0
+runtime: org.deepin.runtime.wine/23.2.1
 
 command:
   - /opt/apps/com.popcap.plantsvszombies.deepin/files/run.sh
