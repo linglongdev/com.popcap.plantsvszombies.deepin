@@ -8,8 +8,8 @@ package:
   description: |
     convert from com.popcap.plantsvszombies.deepin_1.0.0.722deepin1_arm64.deb
 
-base: org.deepin.base.wine/23.0.0/arm64
-runtime: org.deepin.runtime.wine/23.0.0/arm64
+base: org.deepin.base.wine/23.2.0/arm64
+runtime: org.deepin.runtime.wine/23.2.1/arm64
 
 command:
   - /opt/apps/com.popcap.plantsvszombies.deepin/files/run.sh
